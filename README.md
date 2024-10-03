@@ -1,11 +1,12 @@
-# Nombre del Proyecto
+# Calculadora Cientifica
 
-Una breve descripción de lo que hace tu proyecto y para qué sirve.
+Una calculadora científica es una herramienta electrónica diseñada para realizar cálculos matemáticos complejos, más allá de las operaciones básicas que una calculadora estándar puede hacer.
 
 ## Comenzando 🚀
 
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+Necesitas instalar el ejecutable de la aplicacion que se encuentra en una memoria USB
+D:\8voSemestre\Desarrollo_Basado_Modelos\AppsActualizadas\Calculadora_Cientifica
 
 ### Pre-requisitos 📋
 
-Qué cosas necesitas para instalar el software y cómo instalarlas.
+.NET Framework o .NET Runtime
